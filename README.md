@@ -3,14 +3,14 @@
 
 ### Applied HTML knowledge
 
-- [] HTML Boilerplate
-- [] Headings
-- [] Links
-- [] Unordered/Ordered Lists
+- [x] HTML Boilerplate
+- [x] Headings
+- [x] Links
+- [x] Unordered/Ordered Lists
 
 ### Others
-- [] git status
-- [] git add
-- [] git log
-- [] git commit
-- [] git push
+- [x] git status
+- [x] git add
+- [x] git log
+- [x] git commit
+- [x] git push
